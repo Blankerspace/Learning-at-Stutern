@@ -1,0 +1,13 @@
+* {
+font-family: Helvetica;
+padding: 0;
+} 
+.likes {
+    font-style: italic; font-size: 50px;
+}   
+.dislikes {
+    font-style: oblique; font-size: 50px;
+}
+p {
+    font-size: 100px;
+}
